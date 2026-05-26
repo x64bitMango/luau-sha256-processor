@@ -1,5 +1,6 @@
 # sha256 Decryption Processing Tool
 ![Lua](https://img.shields.io/badge/luau-%232C2D72.svg?style=for-the-badge&logo=luau&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-%230a0b0b.svg?style=for-the-badge&logo=Roblox&logoColor=white)
 ![Discord](https://img.shields.io/badge/Webhook_Integration-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 Built ages ago as a proof-of-concept to see how well I could optimize a bruteforcing tool to decrypt sha256 hashes. I decided to place it in a repo so others can build upon it.
